@@ -1,0 +1,9 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Dashboard placeholder">
+  <rect width="1200" height="720" fill="#0f172a"/>
+  <rect x="60" y="60" width="1080" height="600" rx="20" fill="#1e293b"/>
+  <rect x="110" y="130" width="460" height="120" rx="10" fill="#334155"/>
+  <rect x="600" y="130" width="490" height="120" rx="10" fill="#334155"/>
+  <rect x="110" y="280" width="980" height="320" rx="10" fill="#334155"/>
+  <circle cx="220" cy="190" r="26" fill="#22d3ee"/>
+  <circle cx="710" cy="190" r="26" fill="#34d399"/>
+</svg>
